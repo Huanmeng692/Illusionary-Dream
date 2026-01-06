@@ -1,9 +1,12 @@
 # TweeRs
 *.log
-.html
+*.html
 
 # 开发文档
 Development/
 
 # 临时文件
 temp/
+
+# VSCode
+.vscode/
