@@ -1,0 +1,3 @@
+:: test
+<<= $time.day>>
+<<button "增加46分钟" test>><<run Time.increase($time,46)>><</button>>

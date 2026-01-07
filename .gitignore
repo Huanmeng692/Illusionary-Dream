@@ -1,6 +1,7 @@
 # TweeRs
 *.log
 *.html
+*.twee-config.json
 
 # 开发文档
 Development/

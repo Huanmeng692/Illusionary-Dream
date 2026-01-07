@@ -1,0 +1,9 @@
+:root {
+	--html-bg-color:#111;
+	--uibar-bg-color:#222;
+
+	--button-bg-color:#222;
+	--button-hover-bg-color:#333;
+	--bd-color:#444;
+	--bd-hover-color:#666;
+}

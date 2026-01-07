@@ -1,0 +1,9 @@
+:: StoryCaption
+<div id="running">
+	<details id="time">
+		<summary>
+			<<= Time.showTime($time)>>
+		</summary>
+		<<= Time.showData($time)>>
+	</details>
+</div>
